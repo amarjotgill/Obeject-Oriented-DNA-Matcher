@@ -44,6 +44,5 @@ val3:
 val4:
 	valgrind ./proj3 proj3_case4.txt
 
-submit:
-	cp DNA.h DNA.cpp Sequencer.h Sequencer.cpp proj3.cpp ~/cs202proj/proj3
+
 
